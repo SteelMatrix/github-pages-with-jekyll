@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is a header for Github Pages
 
-I'm glad you are here. I plan to talk about ...
+This is filler text, used for passing the tutorial in a timely manner.
